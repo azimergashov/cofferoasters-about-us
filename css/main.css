@@ -268,6 +268,10 @@ ul{
 
 /* MAIN-INFO */
 
+.main-info{
+    margin-bottom: 168px;
+}
+
 .main-info-container{
     padding: 0 198px;
 }
